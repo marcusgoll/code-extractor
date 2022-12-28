@@ -1,0 +1,7 @@
+flask
+werkzeug
+collections
+plotly
+codecs
+csv
+PyPDF2

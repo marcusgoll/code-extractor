@@ -1,0 +1,343 @@
+ACS Code,Knowledge
+PA.I.A.K1,"Certification requirements, recent flight experience, and recordkeeping."
+PA.I.A.K2,Privileges and limitations.
+PA.I.A.K3,"Medical certificates: class, expiration, privileges, temporary disqualifications."
+PA.I.A.K4,Documents required to exercise private pilot privileges.
+PA.I.A.K5,Part 68 BasicMed privileges and limitations.
+PA.I.B.K1,"General airworthiness requirements and compliance for airplanes, including:"
+PA.I.B.K1a,a. Certificate location and expiration dates
+PA.I.B.K1b,b. Required inspections and airplane logbook documentation
+PA.I.B.K1c,c. Airworthiness Directives and Special Airworthiness Information Bulletins
+PA.I.B.K1d,d. Purpose and procedure for obtaining a special flight permit
+PA.I.B.K2,Pilot-performed preventive maintenance.
+PA.I.B.K3,"Equipment requirements for day and night VFR flight, to include:"
+PA.I.B.K3a,a. Flying with inoperative equipment
+PA.I.B.K3b,b. Using an approved Minimum Equipment List (MEL)
+PA.I.B.K3c,c. Kinds of Operation Equipment List (KOEL)
+PA.I.B.K3d,d. Required discrepancy records or placards
+PA.I.C.K1,"Sources of weather data (e.g., National Weather Service, Flight Service) for flight planning purposes."
+PA.I.C.K2,"Acceptable weather products and resources required for preflight planning, current and forecast weather for departure, en route, and arrival phases of flight."
+PA.I.C.K3,"Meteorology applicable to the departure, en route, alternate, and destination under VFR in Visual Meteorological Conditions (VMC) to include expected climate and hazardous conditions such as:"
+PA.I.C.K3a,a. Atmospheric composition and stability
+PA.I.C.K3b,"b. Wind (e.g., crosswind, tailwind, windshear, mountain wave, etc.)"
+PA.I.C.K3c,c. Temperature
+PA.I.C.K3d,d. Moisture/precipitation
+PA.I.C.K3e,"e. Weather system formation, including air masses and fronts"
+PA.I.C.K3f,f. Clouds
+PA.I.C.K3g,g. Turbulence
+PA.I.C.K3h,h. Thunderstorms and microbursts
+PA.I.C.K3i,i. Icing and freezing level information
+PA.I.C.K3j,j. Fog/mist
+PA.I.C.K3k,k. Frost
+PA.I.C.K3l,"l. Obstructions to visibility (e.g., smoke, haze, volcanic ash, etc.)"
+PA.I.C.K4,Flight deck displays of digital weather and aeronautical information.
+PA.I.D.K1,"Route planning, including consideration of different classes and special use airspace (SUA) and selection of appropriate and available navigation/communication systems and facilities."
+PA.I.D.K2,"Altitude selection accounting for terrain and obstacles, glide distance of the airplane, VFR cruising altitudes, and the effect of wind."
+PA.I.D.K3,Calculating:
+PA.I.D.K3a,"a. Time, climb and descent rates, course, distance, heading, true airspeed, and groundspeed"
+PA.I.D.K3b,b. Estimated time of arrival to include conversion to universal coordinated time (UTC)
+PA.I.D.K3c,"c. Fuel requirements, to include reserve"
+PA.I.D.K4,Elements of a VFR flight plan.
+PA.I.D.K5,Procedures for activating and closing a VFR flight plan.
+PA.I.E.K1,Types of airspace/airspace classes and associated requirements and limitations.
+PA.I.E.K2,Charting symbology.
+PA.I.E.K3,"Special use airspace (SUA), special flight rules areas (SFRA), temporary flight restrictions (TFR), and other airspace areas."
+PA.I.F.K1,"Elements related to performance and limitations by explaining the use of charts, tables, and data to determine performance."
+PA.I.F.K2,"Factors affecting performance, to include:"
+PA.I.F.K2a,a. Atmospheric conditions
+PA.I.F.K2b,b. Pilot technique
+PA.I.F.K2c,c. Airplane configuration
+PA.I.F.K2d,d. Airport environment
+PA.I.F.K2e,"e. Loading (e.g., center of gravity)"
+PA.I.F.K2f,f. Weight and balance
+PA.I.F.K3,Aerodynamics.
+PA.I.G.K1,"Airplane systems, to include: (Note: If K1 is selected, the evaluator must assess the applicant’s knowledge of at least three of the following sub-elements.)"
+PA.I.G.K1a,a. Primary flight controls
+PA.I.G.K1b,b. Secondary flight controls
+PA.I.G.K1c,c. Powerplant and propeller
+PA.I.G.K1d,d. Landing gear
+PA.I.G.K1e,"e. Fuel, oil, and hydraulic"
+PA.I.G.K1f,f. Electrical
+PA.I.G.K1g,g. Avionics
+PA.I.G.K1h,"h. Pitot-static, vacuum/pressure, and associated flight instruments"
+PA.I.G.K1i,i. Environmental
+PA.I.G.K1j,j. Deicing and anti-icing
+PA.I.G.K1k,"k. Water rudders (ASES, AMES)"
+PA.I.G.K1l,l. Oxygen system
+PA.I.G.K2,Indications of and procedures for managing system abnormalities or failures.
+PA.I.H.K1,"The symptoms (as applicable), recognition, causes, effects, and corrective actions associated with aeromedical and physiological issues including:"
+PA.I.H.K1a,a. Hypoxia
+PA.I.H.K1b,b. Hyperventilation
+PA.I.H.K1c,c. Middle ear and sinus problems
+PA.I.H.K1d,d. Spatial disorientation
+PA.I.H.K1e,e. Motion sickness
+PA.I.H.K1f,f. Carbon monoxide poisoning
+PA.I.H.K1g,g. Stress
+PA.I.H.K1h,h. Fatigue
+PA.I.H.K1i,i. Dehydration and nutrition
+PA.I.H.K1j,j. Hypothermia
+PA.I.H.K1k,k. Optical illusions
+PA.I.H.K1l,l. Dissolved nitrogen in the bloodstream after scuba dives
+PA.I.H.K2,Regulations regarding use of alcohol and drugs.
+PA.I.H.K3,"Effects of alcohol, drugs, and over-the-counter medications."
+PA.I.H.K4,Aeronautical Decision-Making (ADM).
+PA.I.I.K1,"The characteristics of a water surface as affected by features, such as:"
+PA.I.I.K1a,a. Size and location
+PA.I.I.K1b,b. Protected and unprotected areas
+PA.I.I.K1c,c. Surface wind
+PA.I.I.K1d,d. Direction and strength of water current
+PA.I.I.K1e,e. Floating and partially submerged debris
+PA.I.I.K1f,"f. Sandbars, islands, and shoals"
+PA.I.I.K1g,g. Vessel traffic and wakes
+PA.I.I.K1h,h. Other characteristics specific to the area
+PA.I.I.K2,"Float and hull construction, and its effect on seaplane performance."
+PA.I.I.K3,"Causes of porpoising and skipping, and the pilot action needed to prevent or correct these occurrences."
+PA.I.I.K4,How to locate and identify seaplane bases on charts or in directories.
+PA.I.I.K5,Operating restrictions at various bases.
+PA.I.I.K6,"Right-of-way, steering, and sailing rules pertinent to seaplane operation."
+PA.I.I.K7,"Marine navigation aids, such as buoys, beacons, lights, sound signals, and range markers."
+PA.II.A.K1,Pilot self-assessment.
+PA.II.A.K2,Determining that the airplane to be used is appropriate and airworthy.
+PA.II.A.K3,Airplane preflight inspection including:
+PA.II.A.K3a,a. Which items must be inspected
+PA.II.A.K3b,b. The reasons for checking each item
+PA.II.A.K3c,c. How to detect possible defects
+PA.II.A.K3d,d. The associated regulations
+PA.II.A.K4,"Environmental factors including weather, terrain, route selection, and obstructions."
+PA.II.B.K1,"Passenger briefing requirements, to include operation and required use of safety restraint systems."
+PA.II.B.K2,Use of appropriate checklists.
+PA.II.B.K3,Requirements for current and appropriate navigation data.
+PA.II.C.K1,Starting under various conditions.
+PA.II.C.K2,Starting the engine(s) by use of external power.
+PA.II.C.K3,Engine limitations as they relate to starting.
+PA.II.D.K1,"Current airport aeronautical references and information resources such as the Chart Supplement, airport diagram, and NOTAMS."
+PA.II.D.K2,Taxi instructions/clearances.
+PA.II.D.K3,"Airport markings, signs, and lights."
+PA.II.D.K4,Visual indicators for wind.
+PA.II.D.K5,Aircraft lighting.
+PA.II.D.K6,Procedures for:
+PA.II.D.K6a,"a. Appropriate flight deck activities prior to taxi, including route planning and identifying the location of Hot Spots"
+PA.II.D.K6b,b. Radio communications at towered and nontowered airports
+PA.II.D.K6c,c. Entering or crossing runways
+PA.II.D.K6d,d. Night taxi operations
+PA.II.D.K6e,e. Low visibility taxi operations
+PA.II.E.K1,"Airport information resources including Chart Supplements, airport diagram, and appropriate references."
+PA.II.E.K2,Taxi instructions/clearances.
+PA.II.E.K3,"Airport/seaplane base markings, signs, and lights."
+PA.II.E.K4,Visual indicators for wind.
+PA.II.E.K5,Airplane lighting.
+PA.II.E.K6,Procedures for:
+PA.II.E.K6a,a. Appropriate flight deck activities during taxiing or sailing
+PA.II.E.K6b,b. Radio communications at towered and nontowered seaplane bases
+PA.II.F.K1,Purpose of pre-takeoff checklist items including:
+PA.II.F.K1a,a. Reasons for checking each item
+PA.II.F.K1b,b. Detecting malfunctions
+PA.II.F.K1c,c. Ensuring the airplane is in safe operating condition as recommended by the manufacturer
+PA.III.A.K1,How to obtain proper radio frequencies.
+PA.III.A.K2,Proper radio communication procedures and ATC phraseology.
+PA.III.A.K3,ATC light signal recognition.
+PA.III.A.K4,Appropriate use of transponders.
+PA.III.A.K5,Lost communication procedures.
+PA.III.A.K6,Equipment issues that could cause loss of communication.
+PA.III.A.K7,Radar assistance.
+PA.III.A.K8,National Transportation Safety Board (NTSB) accident/incident reporting.
+PA.III.A.K9,Runway Status Lighting Systems.
+PA.III.B.K1,Towered and nontowered airport operations.
+PA.III.B.K2,Runway selection for the current conditions.
+PA.III.B.K3,Right-of-way rules.
+PA.III.B.K4,Use of automated weather and airport information.
+PA.IV.A.K1,"Effects of atmospheric conditions, including wind, on takeoff and climb performance."
+PA.IV.A.K2,VX and VY
+PA.IV.A.K3,Appropriate airplane configuration.
+PA.IV.B.K1,"A stabilized approach, to include energy management concepts."
+PA.IV.B.K2,"Effects of atmospheric conditions, including wind, on approach and landing performance."
+PA.IV.B.K3,Wind correction techniques on approach and landing.
+PA.IV.C.K1,"Effects of atmospheric conditions, including wind, on takeoff and climb performance."
+PA.IV.C.K2,VX and VY
+PA.IV.C.K3,Appropriate airplane configuration.
+PA.IV.C.K4,Ground effect.
+PA.IV.C.K5,Importance of weight transfer from wheels to wings.
+PA.IV.C.K6,Left turning tendencies.
+PA.IV.D.K1,"A stabilized approach, to include energy management concepts."
+PA.IV.D.K2,"Effects of atmospheric conditions, including wind, on approach and landing performance."
+PA.IV.D.K3,Wind correction techniques on approach and landing.
+PA.IV.E.K1,"Effects of atmospheric conditions, including wind, on takeoff and climb performance."
+PA.IV.E.K2,VX and VY
+PA.IV.E.K3,Appropriate airplane configuration.
+PA.IV.F.K1,"A stabilized approach, to include energy management concepts."
+PA.IV.F.K2,"Effects of atmospheric conditions, including wind, on approach and landing performance."
+PA.IV.F.K3,Wind correction techniques on approach and landing.
+PA.IV.G.K1,"Effects of atmospheric conditions, including wind, on takeoff and climb performance."
+PA.IV.G.K2,VX and VY
+PA.IV.G.K3,Appropriate airplane configuration.
+PA.IV.G.K4,Effects of water surface.
+PA.IV.H.K1,"A stabilized approach, to include energy management concepts."
+PA.IV.H.K2,"Effects of atmospheric conditions, including wind, on approach and landing performance."
+PA.IV.H.K3,Wind correction techniques on approach and landing.
+PA.IV.I.K1,"Effects of atmospheric conditions, including wind, on takeoff and climb performance."
+PA.IV.I.K2,VX and VY
+PA.IV.I.K3,Appropriate airplane configuration.
+PA.IV.I.K4,Appropriate use of glassy water takeoff and climb technique.
+PA.IV.J.K1,"A stabilized approach, to include energy management concepts."
+PA.IV.J.K2,Effects of atmospheric conditions on approach and landing performance.
+PA.IV.J.K3,When and why glassy water techniques are used.
+PA.IV.J.K4,How a glassy water approach and landing is executed.
+PA.IV.K.K1,"Effects of atmospheric conditions, including wind, on takeoff and climb performance."
+PA.IV.K.K2,VX and VY
+PA.IV.K.K3,Appropriate airplane configuration.
+PA.IV.K.K4,Appropriate use of rough water takeoff and climb technique.
+PA.IV.L.K1,"A stabilized approach, to include energy management concepts."
+PA.IV.L.K2,"Effects of atmospheric conditions, including wind, on approach and landing performance."
+PA.IV.L.K3,Wind correction techniques on approach and landing.
+PA.IV.L.K4,When and why rough water techniques are used.
+PA.IV.L.K5,How a rough water approach and landing is executed.
+PA.IV.M.K1,Concepts of energy management during a forward slip approach.
+PA.IV.M.K2,"Effects of atmospheric conditions, including wind, on approach and landing performance."
+PA.IV.M.K3,Wind correction techniques during forward slip.
+PA.IV.M.K4,When and why a forward slip approach is used during an approach.
+PA.IV.N.K1,"A stabilized approach, to include energy management concepts."
+PA.IV.N.K2,"Effects of atmospheric conditions, including wind and density altitude on a go-around or rejected landing."
+PA.IV.N.K3,Wind correction techniques on takeoff/departure and approach/landing.
+PA.V.A.K1,Purpose of steep turns.
+PA.V.A.K2,"Aerodynamics associated with steep turns, to include:"
+PA.V.A.K2a,a. Coordinated and uncoordinated flight
+PA.V.A.K2b,b. Overbanking tendencies
+PA.V.A.K2c,"c. Maneuvering speed, including the impact of weight changes"
+PA.V.A.K2d,d. Load factor and accelerated stalls
+PA.V.A.K2e,e. Rate and radius of turn
+PA.V.B.K1,Purpose of ground reference maneuvers.
+PA.V.B.K2,Effects of wind on ground track and relation to a ground reference point.
+PA.V.B.K3,Effects of bank angle and groundspeed on rate and radius of turn.
+PA.V.B.K4,Relationship of rectangular course to airport traffic pattern.
+PA.VI.A.K1,Pilotage and dead reckoning.
+PA.VI.A.K2,Magnetic compass errors.
+PA.VI.A.K3,Topography.
+PA.VI.A.K4,Selection of appropriate:
+PA.VI.A.K4a,a. Route
+PA.VI.A.K4b,b. Altitude(s)
+PA.VI.A.K4c,c. Checkpoints
+PA.VI.A.K5,"Plotting a course, to include:"
+PA.VI.A.K5a,"a. Determining heading, speed, and course"
+PA.VI.A.K5b,b. Wind correction angle
+PA.VI.A.K5c,"c. Estimating time, speed, and distance"
+PA.VI.A.K5d,d. True airspeed and density altitude
+PA.VI.A.K6,Power setting selection.
+PA.VI.A.K7,Planned versus actual flight plan calculations and required corrections.
+PA.VI.B.K1,"Ground-based navigation (orientation, course determination, equipment, tests, and regulations)."
+PA.VI.B.K2,"Satellite-based navigation (e.g., equipment, regulations, database considerations, and limitations of satellite navigation)."
+PA.VI.B.K3,"Radar assistance to VFR aircraft (e.g., operations, equipment, available services, traffic advisories)."
+PA.VI.B.K4,"Transponder (Mode(s) A, C, and S)."
+PA.VI.C.K1,Selecting an alternate destination.
+PA.VI.C.K2,Situations that require deviations from flight plan or ATC instructions.
+PA.VI.D.K1,Methods to determine position.
+PA.VI.D.K2,"Assistance available if lost (e.g., radar services, communication procedures)."
+PA.VII.A.K1,"Aerodynamics associated with slow flight in various airplane configurations, to include the relationship between angle of attack, airspeed, load factor, power setting, airplane weight and center of gravity, airplane attitude, and yaw effects."
+PA.VII.B.K1,"Aerodynamics associated with stalls in various airplane configurations, to include the relationship between angle of attack, airspeed, load factor, power setting, airplane weight and center of gravity, airplane attitude, and yaw effects."
+PA.VII.B.K2,"Stall characteristics (i.e., airplane design) and impending stall and full stall indications (i.e., how to recognize by sight, sound, or feel)."
+PA.VII.B.K3,Factors and situations that can lead to a power-off stall and actions that can be taken to prevent it.
+PA.VII.B.K4,Fundamentals of stall recovery.
+PA.VII.C.K1,"Aerodynamics associated with stalls in various airplane configurations, to include the relationship between angle of attack, airspeed, load factor, power setting, airplane weight and center of gravity, airplane attitude, and yaw effects."
+PA.VII.C.K2,"Stall characteristics (i.e., airplane design) and impending stall and full stall indications (i.e., how to recognize by sight, sound, or feel)."
+PA.VII.C.K3,Factors and situations that can lead to a power-on stall and actions that can be taken to prevent it.
+PA.VII.C.K4,Fundamentals of stall recovery.
+PA.VII.D.K1,"Aerodynamics associated with spins in various airplane configurations, to include the relationship between angle of attack, airspeed, load factor, power setting, airplane weight and center of gravity, airplane attitude, and yaw effects."
+PA.VII.D.K2,"What causes a spin and how to identify the entry, incipient, and developed phases of a spin."
+PA.VII.D.K3,Spin recovery procedure.
+PA.VIII.A.K1,Flight instruments as related to:
+PA.VIII.A.K1a,"a. Sensitivity, limitations, and potential errors in unusual attitudes"
+PA.VIII.A.K1b,b. Correlation (pitch instruments/bank instruments)
+PA.VIII.A.K1c,c. Function and operation
+PA.VIII.A.K1d,d. Proper instrument cross-check techniques
+PA.VIII.B.K1,Flight instruments as related to:
+PA.VIII.B.K1a,"a. Sensitivity, limitations, and potential errors in unusual attitudes"
+PA.VIII.B.K1b,b. Correlation (pitch instruments/bank instruments)
+PA.VIII.B.K1c,c. Function and operation
+PA.VIII.B.K1d,d. Proper instrument cross-check techniques
+PA.VIII.C.K1,Flight instruments as related to:
+PA.VIII.C.K1a,"a. Sensitivity, limitations, and potential errors in unusual attitudes"
+PA.VIII.C.K1b,b. Correlation (pitch instruments/bank instruments)
+PA.VIII.C.K1c,c. Function and operation
+PA.VIII.C.K1d,d. Proper instrument cross-check techniques
+PA.VIII.D.K1,Flight instruments as related to:
+PA.VIII.D.K1a,"a. Sensitivity, limitations, and potential errors in unusual attitudes"
+PA.VIII.D.K1b,b. Correlation (pitch instruments/bank instruments)
+PA.VIII.D.K1c,c. Function and operation
+PA.VIII.D.K1d,d. Proper instrument cross-check techniques
+PA.VIII.E.K1,Flight instruments as related to:
+PA.VIII.E.K1a,"a. Sensitivity, limitations, and potential errors in unusual attitudes"
+PA.VIII.E.K1b,b. Correlation (pitch instruments/bank instruments)
+PA.VIII.E.K1c,c. Function and operation
+PA.VIII.E.K1d,d. Proper instrument cross-check techniques
+PA.VIII.F.K1,"Operating communications equipment to include identifying and selecting radio frequencies, requesting and following ATC instructions."
+PA.VIII.F.K2,"Operating navigation equipment to include functions and displays, and following bearings, radials, or courses."
+PA.VIII.F.K3,Air traffic control facilities and services.
+PA.IX.A.K1,"Situations that would require an emergency descent (e.g., depressurization, smoke, or engine fire)."
+PA.IX.A.K2,Immediate action items and emergency procedures.
+PA.IX.A.K3,"Airspeed, to include airspeed limitations."
+PA.IX.B.K1,Immediate action items and emergency procedures.
+PA.IX.B.K2,"Airspeed, to include:"
+PA.IX.B.K2a,a. Importance of best glide speed and its relationship to distance
+PA.IX.B.K2b,b. Difference between best glide speed and minimum sink speed
+PA.IX.B.K2c,c. Effects of wind on glide distance
+PA.IX.B.K3,Effects of atmospheric conditions on emergency approach and landing.
+PA.IX.B.K4,"A stabilized approach, to include energy management concepts."
+PA.IX.B.K5,ELTs and other emergency locating devices.
+PA.IX.B.K6,ATC services to aircraft in distress.
+PA.IX.C.K1,"Partial or complete power loss related to the specific powerplant, including:"
+PA.IX.C.K1a,a. Engine roughness or overheat
+PA.IX.C.K1b,b. Carburetor or induction icing
+PA.IX.C.K1c,c. Loss of oil pressure
+PA.IX.C.K1d,d. Fuel starvation
+PA.IX.C.K2,"System and equipment malfunctions specific to the airplane, including:"
+PA.IX.C.K2a,a. Electrical malfunction
+PA.IX.C.K2b,b. Vacuum/pressure and associated flight instrument malfunctions
+PA.IX.C.K2c,c. Pitot/static system malfunction
+PA.IX.C.K2d,d. Electronic flight deck display malfunction
+PA.IX.C.K2e,e. Landing gear or flap malfunction
+PA.IX.C.K2f,f. Inoperative trim
+PA.IX.C.K3,Smoke/fire/engine compartment fire.
+PA.IX.C.K4,"Any other system specific to the airplane (e.g., supplemental oxygen, deicing)."
+PA.IX.C.K5,Inadvertent door or window opening.
+PA.IX.D.K1,"Emergency Locator Transmitter (ELT) operations, limitations, and testing requirements."
+PA.IX.D.K2,Fire extinguisher operations and limitations.
+PA.IX.D.K3,Emergency equipment and survival gear needed for:
+PA.IX.D.K3a,a. Climate extremes (hot/cold)
+PA.IX.D.K3b,b. Mountainous terrain
+PA.IX.D.K3c,c. Overwater operations
+PA.IX.E.K1,Factors affecting VMC.
+PA.IX.E.K2,VMC (red line) and VYSE (blue line).
+PA.IX.E.K3,Accelerate/stop distance.
+PA.IX.F.K1,Factors affecting VMC.
+PA.IX.F.K2,"VMC (red line), VYSE (blue line), and VSSE (safe single-engine speed)."
+PA.IX.F.K3,Accelerate/stop and accelerate/go distances.
+PA.IX.F.K4,"How to identify, verify, feather, and secure an inoperative engine."
+PA.IX.F.K5,"Importance of drag reduction, to include propeller feathering, gear and flap retraction, the manufacturer’s recommended control input and its relation to zero sideslip."
+PA.IX.F.K6,Simulated propeller feathering and the evaluator’s zero-thrust procedures and responsibilities.
+PA.IX.G.K1,Factors affecting VMC.
+PA.IX.G.K2,VMC (red line) and VYSE (blue line).
+PA.IX.G.K3,"How to identify, verify, feather, and secure an inoperative engine."
+PA.IX.G.K4,"Importance of drag reduction, to include propeller feathering, gear and flap retraction, and the manufacturer’s recommended flight control input and its relation to zero sideslip."
+PA.IX.G.K5,Applicant responsibilities during simulated feathering.
+PA.X.A.K1,Factors affecting VMC.
+PA.X.A.K2,VMC (red line) and VYSE (blue line).
+PA.X.A.K3,"How to identify, verify, feather, and secure an inoperative engine."
+PA.X.A.K4,"Importance of drag reduction, to include propeller feathering, gear and flap retraction, the manufacturer’s recommended flight control input and its relation to zero sideslip."
+PA.X.A.K5,"Feathering, securing, unfeathering, and restarting."
+PA.X.B.K1,Factors affecting VMC and how VMC differs from stall speed (VS).
+PA.X.B.K2,"VMC (red line), VYSE (blue line), and VSSE (safe single-engine speed)."
+PA.X.B.K3,Cause of loss of directional control at airspeeds below VMC.
+PA.X.B.K4,Proper procedures for maneuver entry and safe recovery
+PA.X.C.K1,Procedures used if engine failure occurs during straight-and-level flight and turns while on instruments.
+PA.X.D.K1,Instrument approach procedures with one engine inoperative.
+PA.XI.A.K1,Physiological aspects of vision related to night flying.
+PA.XI.A.K2,"Lighting systems identifying airports, runways, taxiways and obstructions, as well as pilot controlled lighting."
+PA.XI.A.K3,Airplane equipment and lighting requirements for night operations.
+PA.XI.A.K4,Personal equipment essential for night flight.
+PA.XI.A.K5,"Night orientation, navigation, and chart reading techniques."
+PA.XII.A.K1,"Airplane shutdown, securing, and postflight inspection."
+PA.XII.A.K2,Documenting in-flight/postflight discrepancies.
+PA.XII.B.K1,Mooring.
+PA.XII.B.K2,Docking.
+PA.XII.B.K3,Anchoring.
+PA.XII.B.K4,Beaching/ramping.
+PA.XII.B.K5,"Postflight inspection, recording of in-flight/postflight discrepancies."

@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Knowledge Code Extractor</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    
+  </head>
+  <body>
+    <div class="container">
+      <h1 class="text-center my-3">FAA Knowledge Code Extractor</h1>
+      {% if error %}
+        <div class="alert alert-danger" role="alert">
+          {{ error }}
+        </div>
+      {% endif %}
+      {% if names %}
+        <!-- Add a div element to hold the pie chart -->
+        <div class="pie-chart">
+          {{ plot_html | safe }}
+        </div>
+        
+
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Code</th>
+              <th>Name</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for code, name in names %}
+              {% if name != "Unknown" %}
+                <tr>
+                  <td>{{ code }}</td>
+                  <td>{{ name }}</td>
+                  <td>{{ code_counts[code] }}</td>
+                </tr>
+              {% endif %}
+            {% endfor %}
+          </tbody>
+        </table>
+        <br>
+        <a href="/" class="btn btn-primary">Back</a>
+      {% else %}
+        <form method="post" enctype="multipart/form-data" class="mb-3">
+          <div class="form-group">
+            <label for="pdf_files">Select PDF files:</label>
+            <input type="file" id="pdf_files" name="pdf_files" multiple required title="Please select at least one PDF file" class="form-control-file">
+          </div>
+          <div class="form-group">
+            <label for="prefix">Select prefix:</label>
+            <select id="prefix" name="prefix" class="form-control">
+              <option value="CA">CA</option>
+              <option value="IR">IR</option>
+              <option value="PA">PA</option>
+              <option value="PLT">PLT</option>
+            </select>
+          </div>
+          <input type="submit" value="Extract Codes" class="btn btn-primary">
+        </form>
+      {% endif %}
+    </div>
+  </body>
+</html>
