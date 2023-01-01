@@ -1,3 +1,4 @@
 flask
 werkzeug
 PyPDF2
+gunicorn
